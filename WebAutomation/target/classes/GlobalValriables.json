@@ -1,0 +1,5 @@
+{
+  "locatorFile": "\\src\\test\\resources\\locators.json",
+  "Success": "Success",
+  "Fail": "Fail"
+}

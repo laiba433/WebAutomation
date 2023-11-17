@@ -1,0 +1,7 @@
+2023-11-17 18:16:47 [main] INFO  main.java.Logger.MyLogger.SetGlobalVariables - Global Variables have been set
+2023-11-17 18:17:00 [main] INFO  main.java.Logger.MyLogger.FindElement - Username Element has found
+2023-11-17 18:17:02 [main] INFO  main.java.Logger.MyLogger.FindElement - Password Element has found
+2023-11-17 18:17:03 [main] INFO  main.java.Logger.MyLogger.FindElement - LoginButton Element has found
+2023-11-17 18:17:03 [main] INFO  main.java.Logger.MyLogger.ClickButton - LoginButtonButton has been clicked
+2023-11-17 18:17:03 [main] INFO  main.java.Logger.MyLogger.FindElement - error Element has found
+2023-11-17 18:17:03 [main] INFO  main.java.Logger.MyLogger.CheckPresenceOfElement - error Control is present

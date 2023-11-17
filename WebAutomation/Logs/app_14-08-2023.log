@@ -1,0 +1,13 @@
+2023-08-14 01:04:11 [main] INFO  main.java.Logger.MyLogger.SetGlobalVariables - Global Variables have been set
+2023-08-14 01:04:18 [main] INFO  main.java.Logger.MyLogger.FindElement - Username Element has found
+2023-08-14 01:04:20 [main] INFO  main.java.Logger.MyLogger.FindElement - Password Element has found
+2023-08-14 01:04:21 [main] INFO  main.java.Logger.MyLogger.FindElement - LoginButton Element has found
+2023-08-14 01:04:21 [main] INFO  main.java.Logger.MyLogger.ClickButton - LoginButtonButton has been clicked
+2023-08-14 01:04:21 [main] INFO  main.java.Logger.MyLogger.FindElement - error Element has found
+2023-08-14 01:04:21 [main] INFO  main.java.Logger.MyLogger.CheckPresenceOfElement - error Control is present
+2023-08-14 01:04:23 [main] INFO  main.java.Logger.MyLogger.FindElement - Username Element has found
+2023-08-14 01:04:26 [main] INFO  main.java.Logger.MyLogger.FindElement - Password Element has found
+2023-08-14 01:04:26 [main] INFO  main.java.Logger.MyLogger.FindElement - LoginButton Element has found
+2023-08-14 01:04:26 [main] INFO  main.java.Logger.MyLogger.ClickButton - LoginButtonButton has been clicked
+2023-08-14 01:04:26 [main] INFO  main.java.Logger.MyLogger.FindElement - Logo Element has found
+2023-08-14 01:04:26 [main] INFO  main.java.Logger.MyLogger.CheckPresenceOfElement - Logo Control is present

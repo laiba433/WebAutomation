@@ -1,0 +1,24 @@
+ { 
+  "Username":{
+    "locator": "Id",
+    "value": "user-name"
+  },
+  "Password":{
+    "locator": "Id",
+    "value": "password"
+  },
+  "LoginButton": {
+    "locator": "Id",
+    "value": "login-button"
+  },
+   "Logo":
+   {
+     "locator": "XPath",
+     "value": "//div[@class='app_logo']"
+   },
+   "error":
+   {
+     "locator": "XPath",
+     "value": "//div[@class='error-message-container error']"
+   }
+ }
